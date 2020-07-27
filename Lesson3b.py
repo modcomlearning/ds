@@ -1,12 +1,10 @@
 
 # nested statements
 # as if statements inside another if statements
-
 age = int(input('What is your age?:'))
 weight = float(input(' What is your weight(Kgs): '))
 
 print('Age entered: ', age, 'Weight entered: ', weight)
-
 # someone can donate blood,, less than 50kgs you can't donate
 # Less than 18 year cannot donate.
 
@@ -27,9 +25,8 @@ else:
     if weight > 60:
         print('We can consider')
 
-
-    #  0729 225 710
-    # check google classroom for more
+#  0729 225 710
+# check google classroom for more
 
 
 
