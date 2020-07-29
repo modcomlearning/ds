@@ -18,6 +18,7 @@ for mark in marks:
 
 for name in names:
     print(name)
+
 # slicing
 print(marks[0:3])
 print(marks[:4]) #  from start to number 4  , there is a minus one
