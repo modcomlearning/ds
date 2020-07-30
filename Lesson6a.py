@@ -20,7 +20,7 @@ sum()
 # Code reuse. DRY - Don't Repeat Yourself.
 # Used in OOP - Object Oriented Programming
 
-
+#  0729 225 710
 def marks_system():
     marks = 45
     if marks < 50:
